@@ -4,5 +4,4 @@ dependencies:
 - python
 - notebook
 - ase>=3.19.0
-- povray =3.7.0.8=hdf7bbdf_1
-- boost-cpp =1.72.0
+- povray =3.7.0.8=h160e566_3
